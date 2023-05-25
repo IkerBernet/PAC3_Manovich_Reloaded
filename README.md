@@ -24,4 +24,11 @@ Abans de parlar de hibridació, dins aquest cas, hem de saber que és Avatar. Av
 
 La pel·lícula, és creada mitjançant el que es diu CGI (imatge creada per ordinador). Aquesta és una tècnica que s'utilitza molt a les pel·lícules d'avui dia, ja sigui per a parts concretes o per a la majoria de la pel·lícula, com passa en el cas d'Avatar. Cada personatge, cada muntanya, cada llac, cada fulla, estan dissenyats per ordinador i donats en vida a l’ordinador. Aquesta és una tecnologia que està en auge però, en el cas de la darrera pel·lícula de la saga d'Avatar 2, per crear l'aigua no hi havia cap cosa predeterminant que es pogués utilitzar, sinó que enginyers i/o persones dedicades al sector van crear una aigua especifica per a Pandora (localització principal de la pel·lícula).
 
-https://i.blogs.es/884d13/avatar-2/1366_2000.jpeg
+![image]([https://github.com/IkerBernet/PAC3_Manovich_Reloaded/assets/132346580/df1b0377-4d6c-492b-ac6a-e5b19d6385f0](https://i.blogs.es/884d13/avatar-2/1366_2000.jpeg)
+
+- **Hibridació**
+
+Perquè Avatar ho podem considerar un cas d'hibridació?
+
+Bé, aquesta pregunta té fàcil resposta, ja que des del punt de vista de Manovich, allò que barregi diferents "tecnologies" en una sola, ho podríem considerar una hibridació i que en la pròpia producció s'utilitzi elements en 2D conjuntament amb 3D fa que la seva creació sigui una hibridació. Però, ho ha encara més, la seva projecció en sales de cinema, la podem visualitzar en 2D, també 3D amb la mateixa pantalla solament afegint unes ulleres, o el fet de poder estar visualitzant-la a sales 4D fa que siguin experiències d’hibridació. El propi fet que una història sigui creada barrejant diferents eines, fa que sigui un cas d’hibridació per a Manovich.
+## Cas (2) Uncharted
