@@ -5,7 +5,7 @@ Autor: Iker Bernet
 Data: 25-05-2023
 
 ![image](https://github.com/IkerBernet/PAC3_Manovich_Reloaded/assets/132346580/df1b0377-4d6c-492b-ac6a-e5b19d6385f0)
-**<center>Imatge de [Lev Manovich](https://es.wikipedia.org/wiki/Lev_Manovich#/media/Archivo:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)</center>**
+**<center>Imatge de [Lev Manovich.](https://es.wikipedia.org/wiki/Lev_Manovich#/media/Archivo:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)</center>**
 
 ## Plantejament
 
