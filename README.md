@@ -45,7 +45,7 @@ La seva creació, igual que en el cas d'Avatar, consta de diferents aspectes rel
 
 Com ja hem comentat Uncharted el podríem considerar-ho un cas d'hibridació simplement pel fet que la seva creació està basada en 2D i 3D. Però en aquest cas hi ha altres aspectes encara més destacables des del meu punt de vista. És el fet en què s'explica la història. Uncharted, igual que la majoria de videojocs, està basat en històries que és narren però que alhora has d’interactuar per poder o bé decidir entre diferents resultats per a la història o simplement per poder avançar. Aquí tenim dos aspectes el narratiu + la interacció. Una cosa que anys enrere no existia i que gràcies als nous mitjans ara ha estat possible.
 
-Amb els nous mitjans, han anat apareixent nous casos d'hibridació i continuaran altres en el futur. Tant Uncharted com Avatar són noves maneres d'explicar històries en les quals per a la seva creació s'han emprat hibridacions i per a la seva visualització també. Diferents maneres de contar, visualitzar, jugar o antigament llegir una història.
+Amb els nous mitjans, han anat apareixent nous casos d'hibridació i continuaran altres en el futur. Tant Uncharted com Avatar són noves maneres d'explicar històries en les quals per a la seva creació s'han emprat hibridacions i per a la seva visualització també. Diferents maneres de comptar, visualitzar, jugar o llegir una història.
 
 ### Referències i bibliografia
 - Llibre de Lev Manovich, El software toma el mando (2013).
