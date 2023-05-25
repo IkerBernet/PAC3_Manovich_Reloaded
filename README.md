@@ -32,3 +32,10 @@ Perquè Avatar ho podem considerar un cas d'hibridació?
 
 Bé, aquesta pregunta té fàcil resposta, ja que des del punt de vista de Manovich, allò que barregi diferents "tecnologies" en una sola, ho podríem considerar una hibridació i que en la pròpia producció s'utilitzi elements en 2D conjuntament amb 3D fa que la seva creació sigui una hibridació. Però, ho ha encara més, la seva projecció en sales de cinema, la podem visualitzar en 2D, també 3D amb la mateixa pantalla solament afegint unes ulleres, o el fet de poder estar visualitzant-la a sales 4D fa que siguin experiències d’hibridació. El propi fet que una història sigui creada barrejant diferents eines, fa que sigui un cas d’hibridació per a Manovich.
 ## Cas (2) Uncharted
+Uncharted és un joc d'aventures, narrativa-acció, el qual ha aconseguit atraure a milions de persones a les seves meravelloses històries, explicades des de personatges propis. L’objectiu és fer al públic interactuar d'una manera realista (com ho faria un ésser humà) durant el transcurs de la història i els esdeveniment que hi passen.
+- **Creació**
+
+La seva creació, igual que en el cas d'Avatar, consta de diferents aspectes relacionant diferents dimensions (2D i 3D son les bases de la creació d’un videojoc en 3D, com és el d’Uncharted). Però en aquest cas, no relacionarem tant la seva creació amb la hibridació (que també compliria les "característiques" per ser-ho segons Manovich) sinó que ens centrarem més en el servei que aquest joc ofereix.
+
+![image](https://blog.es.playstation.com/tachyon/sites/14/2021/12/92ec4208ce7b643bbca8081e7805502a9fe7b268-scaled.jpg?resize=1088%2C612&crop_strategy=smart)
+
