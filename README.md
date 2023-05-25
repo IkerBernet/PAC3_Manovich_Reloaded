@@ -52,3 +52,5 @@ Amb els nous mitjans, han anat apareixent nous casos d'hibridació i continuaran
 - Imatge de [Lev Manovich](https://es.wikipedia.org/wiki/Lev_Manovich#/media/Archivo:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg).
 - Imatge [Avatar](https://i.blogs.es/884d13/avatar-2/1366_2000.jpeg).
 - Imatge [Uncharted](https://blog.es.playstation.com/tachyon/sites/14/2021/12/92ec4208ce7b643bbca8081e7805502a9fe7b268-scaled.jpg?resize=1088%2C612&crop_strategy=smart)
+
+Llicència: Material Creative Commons sota llicència [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
