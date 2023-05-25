@@ -46,3 +46,5 @@ Com ja hem comentat Uncharted el podríem considerar-ho un cas d'hibridació sim
 Amb els nous mitjans, han anat apareixent nous casos d'hibridació i continuaran altres en el futur. Tant Uncharted com Avatar són noves maneres d'explicar històries en les quals per a la seva creació s'han emprat hibridacions i per a la seva visualització també. Diferents maneres de contar, visualitzar, jugar o antigament llegir una història.
 
 ### Referències i bibliografia
+- Llibre de Lev Manovich, El software toma el mando (2013).
+- Imatge de [Lev Manovich](https://es.wikipedia.org/wiki/Lev_Manovich#/media/Archivo:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
