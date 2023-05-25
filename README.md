@@ -24,7 +24,7 @@ Abans de parlar de hibridació, dins aquest cas, hem de saber que és Avatar. Av
 
 La pel·lícula, és creada mitjançant el que es diu CGI (imatge creada per ordinador). Aquesta és una tècnica que s'utilitza molt a les pel·lícules d'avui dia, ja sigui per a parts concretes o per a la majoria de la pel·lícula, com passa en el cas d'Avatar. Cada personatge, cada muntanya, cada llac, cada fulla, estan dissenyats per ordinador i donats en vida a l’ordinador. Aquesta és una tecnologia que està en auge però, en el cas de la darrera pel·lícula de la saga d'Avatar 2, per crear l'aigua no hi havia cap cosa predeterminant que es pogués utilitzar, sinó que enginyers i/o persones dedicades al sector van crear una aigua especifica per a Pandora (localització principal de la pel·lícula).
 
-![image]https://github.com/IkerBernet/PAC3_Manovich_Reloaded/assets/132346580/df1b0377-4d6c-492b-ac6a-e5b19d6385f0
+![image](https://github.com/IkerBernet/PAC3_Manovich_Reloaded/assets/132346580/df1b0377-4d6c-492b-ac6a-e5b19d6385f0)
 
 - **Hibridació**
 
