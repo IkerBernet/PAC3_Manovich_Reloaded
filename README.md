@@ -16,5 +16,5 @@ No és el fet que simplement una web tingui text i alhora vídeo, sinó que haur
 ***Llibre de Lev Manovich, El software toma el mando (2013).***
 
 Ara que ja sabem el que estem buscant, presentem els nostres casos d'hibridació. Aquests tenen certa relació i volen fer referència a com abans és podia explicar una història des d'un teatre o llegint un llibre, a com avui dia podem viure històries en un cinema en  4D i pel·lícules fetes amb CGI (imatge creada per ordinador) o un, fins i tot, videojocs, on a part d'estar submergit a la història has d'interactuar per poder avançar.
-# PAC3_Manovich_Reloaded
+# Cas (1) Avatar
 
