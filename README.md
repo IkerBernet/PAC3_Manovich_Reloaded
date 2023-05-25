@@ -19,4 +19,4 @@ No és el fet que simplement una web tingui text i alhora vídeo, sinó que haur
 
 Ara que ja sabem el que estem buscant, presentem els nostres casos d'hibridació. Aquests tenen certa relació i volen fer referència a com abans és podia explicar una història des d'un teatre o llegint un llibre, a com avui dia podem viure històries en un cinema en  4D i pel·lícules fetes amb CGI (imatge creada per ordinador) o un, fins i tot, videojocs, on a part d'estar submergit a la història has d'interactuar per poder avançar.
 ## Cas (1) Avatar
-
+Abans de parlar de hibridació, dins aquest cas, hem de saber que és Avatar. Avatar és una de les pel·lícules de ciència ficció més populars de les últimes dues dècades. Però que és el que fa Avatar una cosa tan especial per considerar-la una de les millors pel·lícules de la història i un cas de hibridació alhora?
