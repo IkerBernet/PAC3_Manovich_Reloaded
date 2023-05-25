@@ -1,5 +1,5 @@
 # PAC3_Manovich_Reloaded
-<p><srtrong>Presentació de casos d'hibridació segons lev Manovich.</strong></p>
+<p><strong>Presentació de casos d'hibridació segons lev Manovich.</strong></p>
 <p>Autor: Iker Bernet</p>
 <p>Data: 25-05-2023</p>
 ![image](https://github.com/IkerBernet/PAC3_Manovich_Reloaded/assets/132346580/df1b0377-4d6c-492b-ac6a-e5b19d6385f0)
