@@ -4,7 +4,7 @@ Autor: Iker Bernet
 
 Data: 25-05-2023
 
-![image](https://es.wikipedia.org/wiki/Lev_Manovich#/media/Archivo:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg/1920px-Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
 **<center>Imatge de [Lev Manovich](https://es.wikipedia.org/wiki/Lev_Manovich#/media/Archivo:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg).</center>**
 
 ## Plantejament
