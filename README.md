@@ -38,4 +38,5 @@ Uncharted és un joc d'aventures, narrativa-acció, el qual ha aconseguit atraur
 La seva creació, igual que en el cas d'Avatar, consta de diferents aspectes relacionant diferents dimensions (2D i 3D son les bases de la creació d’un videojoc en 3D, com és el d’Uncharted). Però en aquest cas, no relacionarem tant la seva creació amb la hibridació (que també compliria les "característiques" per ser-ho segons Manovich) sinó que ens centrarem més en el servei que aquest joc ofereix.
 
 ![image](https://blog.es.playstation.com/tachyon/sites/14/2021/12/92ec4208ce7b643bbca8081e7805502a9fe7b268-scaled.jpg?resize=1088%2C612&crop_strategy=smart)
+
 - **Hibridació**
