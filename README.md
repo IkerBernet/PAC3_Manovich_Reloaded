@@ -25,7 +25,7 @@ Abans de parlar de hibridació, dins aquest cas, hem de saber que és Avatar. Av
 La pel·lícula, és creada mitjançant el que es diu CGI (imatge creada per ordinador). Aquesta és una tècnica que s'utilitza molt a les pel·lícules d'avui dia, ja sigui per a parts concretes o per a la majoria de la pel·lícula, com passa en el cas d'Avatar. Cada personatge, cada muntanya, cada llac, cada fulla, estan dissenyats per ordinador i donats en vida a l’ordinador. Aquesta és una tecnologia que està en auge però, en el cas de la darrera pel·lícula de la saga d'Avatar 2, per crear l'aigua no hi havia cap cosa predeterminant que es pogués utilitzar, sinó que enginyers i/o persones dedicades al sector van crear una aigua especifica per a Pandora (localització principal de la pel·lícula).
 
 ![image](https://i.blogs.es/884d13/avatar-2/1366_2000.jpeg)
-*<center>Imatge de la pel·lícula [Avatar](https://i.blogs.es/884d13/avatar-2/1366_2000.jpeg)</center>*
+**<center>Imatge de la pel·lícula [Avatar](https://i.blogs.es/884d13/avatar-2/1366_2000.jpeg)</center>**
 
 - **Hibridació**
 
@@ -39,6 +39,7 @@ Uncharted és un joc d'aventures, narrativa-acció, el qual ha aconseguit atraur
 La seva creació, igual que en el cas d'Avatar, consta de diferents aspectes relacionant diferents dimensions (2D i 3D son les bases de la creació d’un videojoc en 3D, com és el d’Uncharted). Però en aquest cas, no relacionarem tant la seva creació amb la hibridació (que també compliria les "característiques" per ser-ho segons Manovich) sinó que ens centrarem més en el servei que aquest joc ofereix.
 
 ![image](https://blog.es.playstation.com/tachyon/sites/14/2021/12/92ec4208ce7b643bbca8081e7805502a9fe7b268-scaled.jpg?resize=1088%2C612&crop_strategy=smart)
+**<center>Imatge in-game [Uncharted](https://blog.es.playstation.com/tachyon/sites/14/2021/12/92ec4208ce7b643bbca8081e7805502a9fe7b268-scaled.jpg?resize=1088%2C612&crop_strategy=smart)</center>**
 
 - **Hibridació**
 
